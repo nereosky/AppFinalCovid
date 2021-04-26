@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFinalcovid</string>
+    <string name="item_default_name">pays</string>
+    <string name="item_default_active_case">0 active case</string>
+    <string name="item_default_deaths">0 death</string>
+    <string name="item_default_recovered">0 recovered</string>
+</resources>
